@@ -1,0 +1,24 @@
+body{
+    background-color: lightblue;
+}
+
+table{
+    margin: auto;
+    border: 2px blue solid;
+    border-radius: 10px;
+}
+
+tr th{
+    background-color: pink;
+    border: dotted 1px orange;
+    font-size: 24px;
+    color: orange;
+}
+
+tr td{
+    background-color: white;
+    border: dotted 1px blue;
+    font-size: 18px;
+    color: blue;
+}
+
